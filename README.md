@@ -8,3 +8,8 @@ It may take up to 10 minutes to load all the cells, depending on your GPU. We re
 
 Scroll down to the very bottom to see the data visualizations.
 
+
+![Screenshot](./1.png)
+![Screenshot](./2.png)
+![Screenshot](./3.png)
+
